@@ -1,0 +1,29 @@
+{
+  "name": "seajsgulp",
+  "version": "1.0.0",
+  "description": "seajs+gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "seajs",
+    "gulp"
+  ],
+  "author": "wdxd",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-cleanhtml": "^1.0.3",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^8.1.1",
+    "gulp-rev-collector": "^1.2.4",
+    "gulp-seajs-combo": "^1.2.3",
+    "gulp-uglify": "^3.0.0"
+  }
+}
